@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AQJr+Nt3DbxVXfI25tVQxAyosZ0qCP59uefl/ClSVqJveCdHanv5mtj3mjL3X6J6MQB55sPsLeA9vkTfLAbeuQ==",
+  "dgSpecHash": "XdvFqlDY4VKMtjkk7NXtKRXiCkMTFpnkmmJezVzFZUHcQwGDVoxBJ6ue0fDdmUis1GgQ6tSkZaymQaDrgqFV9A==",
   "success": true,
-  "projectFilePath": "/Users/joeymadronero/VSCodeProjects/TestProjects/TestProjects.csproj",
+  "projectFilePath": "C:\\Users\\jmadronero\\.dotnet\\csharp-development-tutorials\\TestProjects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
