@@ -8,31 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jmadronero\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/joeymadronero/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmadronero\\.dotnet\\csharp-development-tutorials\\TestProjects.csproj",
+      "projectUniqueName": "/Users/joeymadronero/VSCodeProjects/TestProjects/TestProjects.csproj",
       "projectName": "TestProjects",
-      "projectPath": "C:\\Users\\jmadronero\\.dotnet\\csharp-development-tutorials\\TestProjects.csproj",
-      "packagesPath": "C:\\Users\\jmadronero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmadronero\\.dotnet\\csharp-development-tutorials\\obj\\",
+      "projectPath": "/Users/joeymadronero/VSCodeProjects/TestProjects/TestProjects.csproj",
+      "packagesPath": "/Users/joeymadronero/.nuget/packages/",
+      "outputPath": "/Users/joeymadronero/VSCodeProjects/TestProjects/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jmadronero\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/joeymadronero/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
